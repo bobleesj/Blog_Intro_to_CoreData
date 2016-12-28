@@ -15,6 +15,7 @@
 		C4AA363B1E0E13A000DE41B4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C4AA36391E0E13A000DE41B4 /* LaunchScreen.storyboard */; };
 		C4AA36461E0E13A100DE41B4 /* ToDO_AppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4AA36451E0E13A100DE41B4 /* ToDO_AppTests.swift */; };
 		C4AA36511E0E13A100DE41B4 /* ToDO_AppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4AA36501E0E13A100DE41B4 /* ToDO_AppUITests.swift */; };
+		C4AA365F1E0E144B00DE41B4 /* AddTaskViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4AA365E1E0E144B00DE41B4 /* AddTaskViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		C4AA364C1E0E13A100DE41B4 /* ToDO AppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "ToDO AppUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C4AA36501E0E13A100DE41B4 /* ToDO_AppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDO_AppUITests.swift; sourceTree = "<group>"; };
 		C4AA36521E0E13A100DE41B4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C4AA365E1E0E144B00DE41B4 /* AddTaskViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AddTaskViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				C4AA362D1E0E13A000DE41B4 /* AppDelegate.swift */,
 				C4AA362F1E0E13A000DE41B4 /* ViewController.swift */,
 				C4AA36311E0E13A000DE41B4 /* Main.storyboard */,
+				C4AA365E1E0E144B00DE41B4 /* AddTaskViewController.swift */,
 				C4AA36371E0E13A000DE41B4 /* Assets.xcassets */,
 				C4AA36391E0E13A000DE41B4 /* LaunchScreen.storyboard */,
 				C4AA363C1E0E13A000DE41B4 /* Info.plist */,
@@ -266,6 +269,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C4AA36301E0E13A000DE41B4 /* ViewController.swift in Sources */,
+				C4AA365F1E0E144B00DE41B4 /* AddTaskViewController.swift in Sources */,
 				C4AA362E1E0E13A000DE41B4 /* AppDelegate.swift in Sources */,
 				C4AA36361E0E13A000DE41B4 /* ToDO_App.xcdatamodeld in Sources */,
 			);
