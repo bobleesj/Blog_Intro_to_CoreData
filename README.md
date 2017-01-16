@@ -1,7 +1,7 @@
 #Intro to CoreData in Swift3#
 ![alt text](https://cdn-images-1.medium.com/max/2000/1*LAb-OGYZz970dONldZz7NA.png "Cover Image")
 
-###What you will be learning###
+##What you will be learning##
 - [x] Create a to-do list app 
 - [x] Swipe left delete data 
 - [x] Store data by putting words in UITextfields
